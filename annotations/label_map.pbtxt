@@ -8,5 +8,5 @@ item {
 }
 item {
     id: 3
-    name: 'mask_worn_incorrectly'
+    name: 'mask_weared_incorrect'
 }
